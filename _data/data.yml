@@ -7,23 +7,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Sumin Kim
+    tagline: Computer Vision Researcher
+    avatar: smkim.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: tnals4026@chungbuk.ac.kr
+    phone: 010-4026-xxxx
+    timezone: South Korea
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: https://inf-coding.tistory.com #do not add http://
+    linkedin: 
+    xing: 
+    github: LiamSumin
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,25 +32,24 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Korean
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: Limited Working Proficiency
 
-        - idiom: Spanish
-          level: Professional
+        
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Bowliing
           link:
 
-        - item: Snowboarding
+        - item: Ski
           link:
 
-        - item: Cooking
+        - item: Watching Drama
           link:
 
 career-profile:
@@ -65,9 +64,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Control Robotics
+        university: Chungbuk National University
+        time: 2023-2024
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +75,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Electronics Engineering
+        university: Chungbuk National University
+        time: 2019 - 2022
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -199,23 +198,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: C & C++
+        level: 80%
+
+      - name: ROS
         level: 98%
 
-      - name: Angular
+      - name: Pytorch
+        level: 70%
+
+      - name: OpenCV
         level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
 
       - name: Sketch & Photoshop
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Sumin & Liam</a>

@@ -111,7 +111,7 @@ experiences:
           The club was established when the department was newly formed, separating from the Department of Electrical Engineering in 2021. 
           Our main goal was to conduct research in artificial intelligence and computer vision and prepare for various competitions. 
           Throughout my tenure as president, I had the opportunity to understand how leadership and the courses in my major were practically applied within a team.
-            - 2021 제 2회 +AI 메이커톤 경진대회 (금상)
+            - 2021 제 2회 +AI 메이커톤 경진대회 (금상, 충북대학교 총장상)
             - 2021 창의적 아이디어 공모전 (최우수상)
             - 2021 Hi-TECH 공학콘서트 (장려상)
             - 2023 미래자동차 스케일카 경진대회(최우수상)
@@ -150,7 +150,7 @@ oss:
 
     contributions:
       - title: 'MixFormer: End-to-End Tracking with Iterative Mixed Attention'
-        link: "#"
+        link: "https://dawn-prawn-66d.notion.site/MixFormer-End-to-End-Tracking-with-Iterative-Mixed-Attention-75812787d4c741ca8b8a04ca386eebc1"
         tagline: "Arxiv, after CVPR for another journal"
 
       - title: 'An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale'

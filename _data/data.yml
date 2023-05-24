@@ -62,6 +62,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+
 education:
     title: Education
     info:
@@ -76,6 +77,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+
       - degree: BSc in Electronics Engineering
         university: Chungbuk National University
         time: 2019 - 2022
@@ -87,6 +89,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+            
 experiences:
     title: Experiences
     info:
@@ -112,6 +115,7 @@ experiences:
             - 2021 창의적 아이디어 공모전 (최우수상)
             - 2021 Hi-TECH 공학콘서트 (장려상)
             - 2023 미래자동차 스케일카 경진대회(최우수상)
+
 projects:
     title: Projects
     intro: >
@@ -131,32 +135,59 @@ projects:
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: Data Analytics
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      - title: Etc
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: OSS Contributions
+    title: Read Paper
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This is a link that summarizes the papers I've read so far
+
     contributions:
-      - title: Tempo
+      - title: 'MixFormer: End-to-End Tracking with Iterative Mixed Attention'
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Arxiv, after CVPR for another journal"
 
-      - title: Atom
+      - title: 'An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale'
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "ICLR 21"
+      
+      - title: 'Deep Residual Learning for Image Recognition'
+        link: "#"
+        tagline: "CVPR 16"
 
-      - title: Delta
+      - title: 'Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework'
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "ECCV 22"
+
+      - title: 'MixFormer: End-to-End Tracking with Iterative Mixed Attention'
+        link: "#"
+        tagline: "CVPR 21"
+
+      - title: Transformer Tracking 
+        link: "#"
+        tagline: "CVPR 21"
+
+      - title: 'A Survey of Autonomous Driving: CommonPractices and Emerging Technologies'
+        link: "#"
+        tagline: "IEEE Access"
+        
+      - title: SORT (Simple Online and Realtime Tracking)
+        link: "#"
+        tagline: "ICIP 16"
+
+      - title: Robust Lane Detection from Continuous Driving Scenes Using Deep Neural Networks
+        link: "#"
+        tagline: "IEEE TVT 20"
+
+      - title: Ultra Fast Structure-aware Deep Lane Detection
+        link: "#"
+        tagline: "ECCV 20"
 
 publications:
     title: Publications
@@ -166,7 +197,7 @@ publications:
       bibendum fringilla a eu lectus.
     papers:
       - title: 적외선 영상을 사용한 미상 객체 검출 시스템(Target-agnostic Object Detection using Infrared Thermal imagery)
-        link: "#"
+        link: "http://2023.icros.org/?page_id=49"
         authors: Sumin Kim, Eunsu Bong, Yeongbae Hwang 
         conference: ICROS, 2023
 

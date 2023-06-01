@@ -195,11 +195,17 @@ publications:
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
+
     papers:
       - title: 적외선 영상을 사용한 미상 객체 검출 시스템(Target-agnostic Object Detection using Infrared Thermal imagery)
         link: "http://2023.icros.org/?page_id=49"
         authors: Sumin Kim, Eunsu Bong, Yeongbae Hwang 
         conference: ICROS, 2023
+
+      - title: Robust lane detection using saturation and lightness
+        link: "http://netkers5.cafe24.com/bigdas2022/assets/program/BIGDAS2022%20Proceeding.pdf"
+        authors: Sumin Kim, Yeongbae Hwang
+        conference: Bigdas, 2022
 
 
 skills:

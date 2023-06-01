@@ -198,12 +198,13 @@ publications:
         link: "http://2023.icros.org/?page_id=49"
         authors: Sumin Kim, Eunsu Bong, Yeongbae Hwang 
         conference: ICROS, 2023
+        pages: None
 
       - title: Robust lane detection using saturation and lightness
         link: "http://netkers5.cafe24.com/bigdas2022/assets/program/BIGDAS2022%20Proceeding.pdf"
         authors: Sumin Kim, Yeongbae Hwang
         conference: Bigdas, 2022
-        page: 64 - 65
+        pages: 64 - 65
 
 
 skills:

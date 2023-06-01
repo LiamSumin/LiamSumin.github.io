@@ -44,13 +44,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Bowliing
+        - item: Excercise
           link:
 
-        - item: Ski
+        - item: Listening to the song and singing
           link:
 
-        - item: Watching Drama
+        - item: Console Game
           link:
 
 career-profile:
@@ -68,7 +68,7 @@ education:
     info:
       - degree: MSc in Control Robotics
         university: Chungbuk National University
-        time: 2023-2024
+        time: 2023.3 - 2024.8
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,7 +80,7 @@ education:
 
       - degree: BSc in Electronics Engineering
         university: Chungbuk National University
-        time: 2019 - 2022
+        time: 2019.3 - 2022.2
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -119,17 +119,16 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This is a compilation of things I did during my undergraduate or master's program.
+
     assignments:
-      - title: Autonomous Driving
-        link: "https://www.youtube.com/@selfcar2515"
+      - title: Autonomous Driving (Undergraduate)
+        link: "https://inf-coding.tistory.com/19"
         tagline: "Here are some videos from my time in Selfcar."
 
-      - title: Visual Object Tracking
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Visual Object Tracking 
+        link: "https://inf-coding.tistory.com/18"
+        tagline: "Here's summary of Visual Object Tracking"
 
       - title: Object Detection
         link: "#"
@@ -154,15 +153,15 @@ oss:
         tagline: "Arxiv, after CVPR for another journal"
 
       - title: 'An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale'
-        link: "#"
+        link: "https://inf-coding.tistory.com/20"
         tagline: "ICLR 21"
       
       - title: 'Deep Residual Learning for Image Recognition'
-        link: "#"
+        link: "https://inf-coding.tistory.com/21"
         tagline: "CVPR 16"
 
       - title: 'Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework'
-        link: "#"
+        link: "https://inf-coding.tistory.com/17"
         tagline: "ECCV 22"
 
       - title: 'MixFormer: End-to-End Tracking with Iterative Mixed Attention'
@@ -192,9 +191,7 @@ oss:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      These are some of the papers I've written and submitted over the years.
 
     papers:
       - title: 적외선 영상을 사용한 미상 객체 검출 시스템(Target-agnostic Object Detection using Infrared Thermal imagery)
